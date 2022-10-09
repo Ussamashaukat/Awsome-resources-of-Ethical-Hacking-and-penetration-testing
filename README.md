@@ -1,4 +1,4 @@
-**Awsomem resources of Ethical Hacking and penetration testing**
+**Awsome resources of Ethical Hacking and penetration testing**
 
 What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster! Let's make it the best resource repository for our community.
 
