@@ -1,8 +1,9 @@
-**Awsome-resources-of-Ethical-Hacking-and-penetration-testing**
+**Awsomem resources of Ethical Hacking and penetration testing**
 
 What I’m sharing here is a collection of some best resources about Hacking & Penetration Testing to make you learn faster! Let's make it the best resource repository for our community.
 
 You are welcome to fork and contribute.
+
 
 **Books**
 
@@ -25,6 +26,7 @@ OWASP Testing Guide (A must read for web application developers and penetration 
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
 
 The Basics of Web Hacking: Tools and Techniques to Attack the Web
+
 
 **Learning Platforms to Sharpen Your Skills Online**
 
@@ -60,6 +62,7 @@ PentesterLab ::	      20$ signature, complete content basic to write exploits, w
 
 CyberSec WTF ::    	Emulated web pentesting challenges from bounty write-ups
 
+
 **Off-Line**
 
 Name	           ::       Description
@@ -72,9 +75,10 @@ Vulnerable Machines/Websites
 
 FiringRange
 
-Vulnerability Databases And Resources
 
-**Vulnerability Databases are the first place to start your day as a security professional. Any new vulnerability detection is generally available through the public vulnerability databases. These databases are a big source of information for hackers to be able to understand and exploit/avoid/fix the vulnerability.**
+**Vulnerability Databases And Resources**
+
+Vulnerability Databases are the first place to start your day as a security professional. Any new vulnerability detection is generally available through the public vulnerability databases. These databases are a big source of information for hackers to be able to understand and exploit/avoid/fix the vulnerability.
 
 http://www.exploit-db.com/
 
@@ -123,6 +127,7 @@ Malware Analysis - CSCI 4976	another class from the folks at RPISEC, quality con
 
 [Bad Binaries] (https://www.badbinaries.com/)	walkthrough documents of malware traffic analysis exercises and some occasional malware analysis.
 
+
 **Linux Penetration Testing OS**
 
 Name	     ::      Description
@@ -137,6 +142,7 @@ BlackArch ::	    Arch Linux based pentesting distro, compatible with Arch instal
 
 LionSec ::      Linux	pentesting OS based on Ubuntu
 
+
 **Courses**
 
 Computer Systems Security, MIT
@@ -144,6 +150,7 @@ Computer Systems Security, MIT
 For those who want to do CEH, the following links are for you. 2. CBT Nuggets CEH Training 3. CEH Books 4. Guide to Binary Exploitation
 
 Workshops/Playlists
+
 
 **Web Hacking**
 
@@ -168,6 +175,7 @@ Ghost in the Cloud, Kevin Mitnick
 Kevin Mitnick | Talks at Google
 
 Complete Free Hacking Course: Go from Beginner to Expert Hacker Today
+
 
 **YouTube Channels**
 
@@ -217,6 +225,7 @@ Null Byte
 
 Any Channel Link Missing? Kindly add it in Comments
 
+
 **Forums**
 
 Name	           Description
@@ -233,9 +242,11 @@ Greysec	hacking and security forum
 
 Hackforums	posting webstite for hacks/exploits/various discussion
 
+
 **Contribution**
 
 Your contributions and suggestions are heartily welcome.
+
 
 **NOTE:**
 
