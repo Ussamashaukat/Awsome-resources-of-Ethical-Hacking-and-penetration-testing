@@ -7,32 +7,57 @@ You are welcome to fork and contribute.
 **Books**
 
 The Hacker Playbook 2: Practical Guide To Penetration Testing
+
 The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy
+
 Breaking into Information Security: Learning the Ropes 101
+
 Penetration Testing: A Hands-On Introduction to Hacking
+
 Social Engineering: The Art of Human Hacking
+
 Hacking: The Art of Exploitation, 2nd Edition
+
 Web Hacking 101
+
 OWASP Testing Guide (A must read for web application developers and penetration testers)
+
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws
+
 The Basics of Web Hacking: Tools and Techniques to Attack the Web
 
 **Learning Platforms to Sharpen Your Skills Online**
+
 Name	                             Description
+
 CTF Hacker101	:: The Hacker101 CTF is a game designed to let you learn to hack in a safe, rewarding environment. Hacker101 is a free educational site for hackers.
+
 Hack The Box :: Penetration Testing Labs	An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs.
+
 CTF365m ::	An account based ctf site, awarded by Kaspersky, MIT, T-Mobile.
+
 Backdoor ::	Pen testing labs that have a space for beginners, a practice arena and various competitions, account required.
+
 Hack.me ::	Lets you build/host/attack vulnerable web apps.
+
 CTFLearn ::	An account-based ctf site, where users can go in and solve a range of challenges.
+
 OWASP Vulnerable Web Applications Directory Project (Online) ::	List of online available vulnerable applications for learning purposes.
+
 Pentestit labs ::	Hands-on Pentesting Labs (OSCP style)
+
 Root-me.org ::	Hundreds of challenges are available to train yourself in different and not simulated environments
+
 Vulnhub.com ::	Vulnerable By Design VMs for practical 'hands-on' experience in digital security
+
 Windows / Linux Local Privilege Escalation Workshop	Practice your Linux and Windows privilege escalation.
+
 Hacking Articles	CTF Breif Write up collection with a lot of screenshots good for beggainers.
+
 Rafay Hacking Articles, a great blog	Write up collections by Rafay Baloch.
+
 PentesterLab	20$ signature, complete content basic to write exploits, web, android.
+
 CyberSec WTF	Emulated web pentesting challenges from bounty write-ups
 
 **Off-Line**
